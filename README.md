@@ -1,6 +1,6 @@
 _**CS246E Final Design Document**_
 
-[Download and view the video](./media/vm-test.mov)
+![Video Preview](./media/vm-test.gif)
 
 **Introduction**
 

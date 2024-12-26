@@ -1,5 +1,7 @@
 _**CS246E Final Design Document**_
 
+[Download and view the video](./media/vm-test.mov)
+
 **Introduction**
 
 For the CS246E final project, I chose to create the vim-like text editor: VM. My VM Text Editor uses C++20 and the Ncurses library. The project aims to replicate and extend the functionalities of the built-in Vim editor in most machine terminals. Specifically focusing on implementing both Insert and Command modes, as well as some more advanced features, syntax highlighting and visual mode. Following object-oriented design principles and the Model-View-Controller (MVC) architecture, the project ensures maintainability, scalability, and modularity. This report provides a comprehensive overview of the project's final design, implementation details, encountered challenges, and reflections on the development process.
